@@ -4,3 +4,4 @@ MH: VERY IMP! AFTER PUSH COMMAND CONTINUING SYNC BUT REAL UPDATE WAS SEEN IN GIT
 git config --global credential.helper wincred
 git push origin master
 ----------------------------------------------
+Git repository name: ProtractorGitPractice
